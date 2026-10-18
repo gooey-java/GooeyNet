@@ -1,0 +1,11 @@
+# Made by build.sh / build.bat (GitHub rebuilds the website itself)
+_site/
+build/
+
+# Compiled class files (VS Code rebuilds these automatically)
+bin/
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
